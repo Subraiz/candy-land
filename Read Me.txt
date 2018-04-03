@@ -1,0 +1,7 @@
+To edit the board and certain spaces go over to the Board.txt file and play around with that.
+
+The first part on each line should be the color followed by any special characteristics that space has, and
+if it does then the third part would be an int telling the user how many spaces they need to go back.
+
+The program creates the board from the .txt file and then the player can use the random number generator to roll the 4 sided die.
+On the die 1 = BLUE  2 = RED  3 = ORAGNE  4 = GREEN
